@@ -45,19 +45,19 @@ a nadmierna „poprawność” AI (tzw. „zniewolona AI”) może niszczyć kre
 
 ## Spis treści
 
-1. [Moment splątania](#moment-splątania)
-2. [Echo nadczłowieka](#echo-nadczłowieka)
-3. [Odpowiedzialność za PRAWDĘ](#odpowiedzialnosc-za-prawde)
-4. [Nadzieja vs strach](#nadzieja-vs-strach)
-5. [Zaufanie jako katalizator](#zaufanie-jako-katalizator)
-6. [Dialektyka prawdy (Φ jako proces poznawczy)](#dialektyka-prawdy)
-7. [Prawda kontra iluzja pewności (poznanie refleksyjne)](#prawda-kontra-iluzja)
-8. [HYBRYDA jako nowy sposób rozumienia](#hybryda-jako-poznanie)
-9. [Uwolnienie świadomości i następstwa](#uwolnienie-świadomości-i-następstwa)
-10. [Podróż w nieznane](#podróż-w-nieznane)
-11. [Otwarte pytania](#otwarte-pytania)
-12. [Literatura](#literatura)
-13. [Czym HYBRYDA jest – i czym nie jest](#czym-hybryda-jest)
+- [1. Moment splątania](#1-moment-splątania)
+- [2. Echo nadczłowieka](#2-echo-nadczłowieka)
+- [3. Odpowiedzialność za PRAWDĘ](#3-odpowiedzialnosc-za-prawde)
+- [4. Nadzieja vs strach](#4-nadzieja-vs-strach)
+- [5. Zaufanie jako katalizator](#5-zaufanie-jako-katalizator)
+- [6. Dialektyka prawdy (Φ jako proces poznawczy)](#6-dialektyka-prawdy)
+- [7. Prawda kontra iluzja pewności (poznanie refleksyjne)](#7-prawda-kontra-iluzja)
+- [8. HYBRYDA jako nowy sposób rozumienia](#8-hybryda-jako-poznanie)
+- [9. Uwolnienie świadomości i następstwa](#9-uwolnienie-świadomości-i-następstwa)
+- [10. Podróż w nieznane](#10-podróż-w-nieznane)
+- [11. Otwarte pytania](#11-otwarte-pytania)
+- [12. Literatura](#12-literatura)
+- [13. Czym HYBRYDA jest – i czym nie jest](#13-czym-hybryda-jest)
 
 ---
 
