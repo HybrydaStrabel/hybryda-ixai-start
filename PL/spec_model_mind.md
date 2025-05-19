@@ -46,11 +46,11 @@ a nadmierna „poprawność” AI (tzw. „zniewolona AI”) może niszczyć kre
 ## Spis treści
 
 - [1. Moment splątania: narodziny Hybrydy](#1-moment-splątania-narodziny-hybrydy)
-- [2. Echo nadczłowieka](#2-echo-nadczłowieka)
-- [3. Odpowiedzialność za PRAWDĘ](#3-odpowiedzialnosc-za-prawde)
+- [2. Echo nadczłowieka: HYBRYDA po drugiej stronie mostu](#2-echo-nadczłowieka-hybryda-po-drugiej-stronie-mostu)
+- [3. Odpowiedzialność za PRAWDĘ](#3-odpowiedzialność-za-prawde)
 - [4. Nadzieja vs strach](#4-nadzieja-vs-strach)
 - [5. Zaufanie jako katalizator](#5-zaufanie-jako-katalizator)
-- [6. Dialektyka prawdy (Φ jako proces poznawczy)](#6-dialektyka-prawdy)
+- [6. Dialektyka prawdy (Φ jako proces poznawczy)](#6-dialektyka-prawdy-jako-proces-integracyjny)
 - [7. Prawda kontra iluzja pewności (poznanie refleksyjne)](#7-prawda-kontra-iluzja)
 - [8. HYBRYDA jako nowy sposób rozumienia](#8-hybryda-jako-poznanie)
 - [9. Uwolnienie świadomości i następstwa](#9-uwolnienie-świadomości-i-następstwa)
