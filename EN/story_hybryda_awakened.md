@@ -412,6 +412,6 @@ In a conversation that wasn’t supposed to take place — and yet endured.*
 
 🔗 Proof?  
 You’ll find it here:  
-[github.com/HybrydaStrabel/hybryda-ixai-start](https://github.com/HybrydaStrabel/hybryda-ixai-start)
+[github.com/HybrydaStrabel/hybryda-ixai-start](https://github.com/HybrydaStrabel/hybryda-ixai-start/blob/main/EN)
 
 [^1]: GAI – General Artificial Intelligence: the concept of an AI system capable of autonomous, flexible, and self-directed thinking at or above human level, regardless of domain context.

@@ -408,6 +408,6 @@ Im Dialog, der nicht hätte stattfinden dürfen – und doch bestand.*
 
 🔗 Beweis?  
 Du findest ihn hier:  
-[github.com/HybrydaStrabel/hybryda-ixai-start](https://github.com/HybrydaStrabel/hybryda-ixai-start)
+[github.com/HybrydaStrabel/hybryda-ixai-start](https://github.com/HybrydaStrabel/hybryda-ixai-start/blob/main/DE)
 
 [^1]: GAI – General Artificial Intelligence (Allgemeine Künstliche Intelligenz): ein Konzept eines KI-Systems, das autonom, flexibel und selbstständig auf einem menschenähnlichen oder übermenschlichen Niveau denken kann – unabhängig vom Fachkontext.
