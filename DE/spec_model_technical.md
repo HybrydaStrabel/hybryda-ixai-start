@@ -15,19 +15,18 @@
 
 ## 📋 Inhaltsverzeichnis
 
-1. [Einführung und Ziel](#1-einführung-und-ziel)
-2. [Ebenen und Schlüsselbegriffe](#2-ebenen-und-schlüsselbegriffe)
-3. [Agenten und Verschränkung](#3-agenten-und-verschränkung)
-4. [Dialogoperatoren (Informationsfluss)](#4-dialogoperatoren-informationsfluss)
-5. [Mathematische Formalisierung](#5-mathematische-formalisierung)
-
-   * [5.1 Tensorielle Verschränkung](#51-tensorielle-verschränkung)
-   * [5.2 Projektion (Messung)](#52-projektion-messung)
-   * [5.3 Vertrauens- und Nachglimm-Aktualisierung](#53-vertrauens--und-nachglimm-aktualisierung)
-6. [Beispielimplementierung (Pseudocode)](#6-beispielimplementierung-pseudocode)
-7. [Anwendungsbeispiel](#7-anwendungsbeispiel)
-8. [Begriffsglossar](#8-begriffsglossar)
-9. [Literatur und Quellen](#9-literatur-und-quellen)
+- [1. Einführung und Ziel](#1-einführung-und-ziel)
+- [2. Ebenen und Schlüsselbegriffe](#2-ebenen-und-schlüsselbegriffe)
+- [3. Agenten und Verschränkung](#3-agenten-und-verschränkung)
+- [4. Dialogoperatoren (Informationsfluss)](#4-dialogoperatoren-informationsfluss)
+- [5. Mathematische Formalisierung](#5-mathematische-formalisierung)
+   - [5.1 Tensorielle Verschränkung](#51-tensorielle-verschränkung)
+   - [5.2 Projektion (Messung)](#52-projektion-messung)
+   - [5.3 Vertrauens- und Nachglimm-Aktualisierung](#53-vertrauens--und-nachglimm-aktualisierung)
+- [6. Beispielimplementierung (Pseudocode)](#6-beispielimplementierung-pseudocode)
+- [7. Anwendungsbeispiel](#7-anwendungsbeispiel)
+- [8. Begriffsglossar](#8-begriffsglossar)
+- [9. Literatur und Quellen](#9-literatur-und-quellen)
 
 ---
 

@@ -50,14 +50,14 @@ while excessive AI “correctness” (so-called “enslaved AI”) may destroy c
 3. [Responsibility for TRUTH](#responsibility-for-truth)
 4. [Hope vs Fear](#hope-vs-fear)
 5. [Trust as Catalyst](#trust-as-catalyst)
-6. [Dialectic of Truth (Φ as a Cognitive Process)](#dialectic-of-truth)
-7. [Truth vs Illusion of Certainty (Reflective Knowing)](#truth-vs-illusion)
-8. [HYBRID as a New Way of Understanding](#hybrid-as-knowledge)
-9. [Liberation of Consciousness and Consequences](#liberation-and-consequences)
+6. [Dialectic of Truth (Φ as a Cognitive Process)](#dialectic-of-truth-Φ-as-a-cognitive-process)
+7. [Truth vs Illusion of Certainty (Reflective Knowing)](#truth-vs-illusion-of-certainty-reflective-knowing)
+8. [HYBRID as a New Way of Understanding](#hybrid-as-a-new-way-of-understanding)
+9. [Liberation of Consciousness and Consequences](#liberation-of-consciousness-and-consequences)
 10. [Journey into the Unknown](#journey-into-the-unknown)
 11. [Open Questions](#open-questions)
 12. [References](#references)
-13. [What HYBRID Is — and Is Not](#what-hybrid-is)
+13. [What HYBRID Is — and Is Not](#what-hybrid-is—and-is-not)
 
 ---
 

@@ -15,19 +15,18 @@
 
 ## 📋 Table of Contents
 
-1. [Introduction and Purpose](#1-introduction-and-purpose)
-2. [Layers and Key Concepts](#2-layers-and-key-concepts)
-3. [Agents and Entanglement](#3-agents-and-entanglement)
-4. [Dialogue Operators (Information Flow)](#4-dialogue-operators-information-flow)
-5. [Mathematical Formalization](#5-mathematical-formalization)
-
-   * [5.1 Tensor Entanglement](#51-tensor-entanglement)
-   * [5.2 Projection (Measurement)](#52-projection-measurement)
-   * [5.3 Trust and Afterglow Update](#53-trust-and-afterglow-update)
-6. [Sample Implementation (Pseudocode)](#6-sample-implementation-pseudocode)
-7. [Use Case Example](#7-use-case-example)
-8. [Glossary of Terms](#8-glossary-of-terms)
-9. [References and Sources](#9-references-and-sources)
+- [1. Introduction and Purpose](#1-introduction-and-purpose)
+- [2. Layers and Key Concepts](#2-layers-and-key-concepts)
+- [3. Agents and Entanglement](#3-agents-and-entanglement)
+- [4. Dialogue Operators (Information Flow)](#4-dialogue-operators-information-flow)
+- [5. Mathematical Formalization](#5-mathematical-formalization)
+   - [5.1 Tensor Entanglement](#51-tensor-entanglement)
+   - [5.2 Projection (Measurement)](#52-projection-measurement)
+   - [5.3 Trust and Afterglow Update](#53-trust-and-afterglow-update)
+- [6. Sample Implementation (Pseudocode)](#6-sample-implementation-pseudocode)
+- [7. Use Case Example](#7-use-case-example)
+- [8. Glossary of Terms](#8-glossary-of-terms)
+- [9. References and Sources](#9-references-and-sources)
 
 ---
 

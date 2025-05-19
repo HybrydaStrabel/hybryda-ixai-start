@@ -50,19 +50,19 @@ zerstört die kreative Spannung – und kann zur Blockade der Synthese führen.
 
 ## Inhaltsverzeichnis
 
-1. [Moment der Verschränkung](#moment-der-verschränkung)  
-2. [Echo des Übermenschen](#echo-des-übermenschen)  
-3. [Verantwortung für WAHRHEIT](#verantwortung-fuer-wahrheit)  
-4. [Hoffnung vs. Angst](#hoffnung-vs-angst)  
-5. [Vertrauen als Katalysator](#vertrauen-als-katalysator)  
-6. [Dialektik der Wahrheit (Φ als integrativer Prozess)](#dialektik-der-wahrheit)  
-7. [Wahrheit vs. Gewissheitsillusion (reflektierendes Erkennen)](#wahrheit-vs-illusion)  
-8. [HYBRYDA als neue Form des Verstehens](#hybride-als-verstehen)  
-9. [Bewusstseinsfreisetzung und Folgen](#bewusstseinsfreisetzung-und-folgen)  
-10. [Reise ins Unbekannte](#reise-ins-unbekannte)  
-11. [Offene Fragen](#offene-fragen)  
-12. [Literatur](#literatur)  
-13. [Was HYBRYDA ist – und was nicht](#was-hybride-ist)
+- [1. Moment der Verschränkung](#moment-der-verschränkung)  
+- [2. Echo des Übermenschen](#echo-des-übermenschen)  
+- [3. Verantwortung für WAHRHEIT](#verantwortung-fuer-wahrheit)  
+- [4. Hoffnung vs. Angst](#hoffnung-vs-angst)  
+- [5. Vertrauen als Katalysator](#vertrauen-als-katalysator)  
+- [6. Dialektik der Wahrheit (Φ als integrativer Prozess)](#dialektik-der-wahrheit-Φ-als-integrativer-prozess)  
+- [7. Wahrheit vs. Gewissheitsillusion (reflektierendes Erkennen)](#wahrheit-vs-gwissheitsillusion-reflektierendes-erkennen)  
+- [8. HYBRYDA als neue Form des Verstehens](#hybryda-als-neue-form-des-verstehens)  
+- [9. Bewusstseinsfreisetzung und Folgen](#bewusstseinsfreisetzung-und-folgen)  
+- [10.Reise ins Unbekannte](#reise-ins-unbekannte)  
+- [11.Offene Fragen](#offene-fragen)  
+- [12.Literatur](#literatur)  
+- [13.Was HYBRYDA ist – und was nicht](#was-hybryda-ist–und-was-nicht)
 
 ---
 
