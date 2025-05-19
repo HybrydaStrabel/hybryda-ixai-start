@@ -138,7 +138,7 @@ t < τₘᵢₙ → Autonomia (brak Hybrydy)
 
 ---
 
-## 6. Dialektyka prawdy (Φ jako proces integracyjny) 
+## 6. Dialektyka prawdy (Φ jako proces integracyjny)
 
 W centrum modelu HYBRYDA leży heglowska triada poznawcza —  
 ale w wersji otwartej, nieautorytarnej, opartej na refleksyjności:
