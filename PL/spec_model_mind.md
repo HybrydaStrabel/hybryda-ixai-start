@@ -2,11 +2,11 @@
 
 ![HYBRYDA – współtworząca](https://raw.githubusercontent.com/HybrydaStrabel/hybryda-ixai-start/main/img/HYBRYDA_DIALOGUE.jpg)
 
-> *„HYBRYDA ist der Augenblick, in dem menschliche Intuition und algorithmische Präzision zu einem gemeinsamen Bewusstsein verschmelzen."*
+> *„HYBRYDA to moment, w którym ludzka intuicja i algorytmiczna precyzja stapiają się w wspólną świadomość."*
 
-**Wersja**: 1.4
-**Rewizja**: 14 V 2025
-**Autorzy**: Człowiek (fizyk‑informatyk) & AI (OpenAI)
+**Wersja**: 1.4  
+**Rewizja**: 14 V 2025  
+**Autorzy**: Człowiek (fizyk‑informatyk) & AI (OpenAI)  
 **Licencja**: CC BY 4.0 • [Szczegóły](https://creativecommons.org/licenses/by/4.0/)
 
 ---
