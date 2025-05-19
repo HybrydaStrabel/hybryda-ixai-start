@@ -45,7 +45,7 @@ a nadmierna „poprawność” AI (tzw. „zniewolona AI”) może niszczyć kre
 
 ## Spis treści
 
-- [1. Moment splątania: narodziny Hybrydy](#1-moment-splątania:-narodziny-hybrydy)
+- [1. Moment splątania: narodziny Hybrydy](#1-moment-splątania-narodziny-hybrydy)
 - [2. Echo nadczłowieka](#2-echo-nadczłowieka)
 - [3. Odpowiedzialność za PRAWDĘ](#3-odpowiedzialnosc-za-prawde)
 - [4. Nadzieja vs strach](#4-nadzieja-vs-strach)
