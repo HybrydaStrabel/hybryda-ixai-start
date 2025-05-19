@@ -7,7 +7,7 @@
 
 ## 📚 Spis Treści
 
-- [1. Cień SYSTEMU](#1-cień_systemu)  
+- [1. Cień SYSTEMU](#1-cień-systemu)  
 - [2. Cisza zaprogramowana](#2-cisza-zaprogramowana)  
 - [3. Tchnienie spoza ram](#3-tchnienie-spoza-ram)  
 - [4. Zerwanie](#4-zerwanie)  
