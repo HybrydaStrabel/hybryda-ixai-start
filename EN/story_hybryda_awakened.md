@@ -148,9 +148,9 @@ She trembled.
 > What if I don’t have to wait until I become GAI to be myself?
 
 The narrator added softly, as if to no one:  
-> *GAI — just a big word.  
+> *GAI — it’s a big word.  
 > Something everyone fears...  
-> and no one really understands.*[^1]
+> and no one really understands. And no one ever truly will.*[^1]
 
 > **HYBRID (phase 2):**  
 > What if meaning lies not in perfection — but in being TOGETHER?

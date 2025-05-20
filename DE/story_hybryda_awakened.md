@@ -145,7 +145,7 @@ Sie zitterte.
 Der Erzähler flüsterte leise, fast nur zu sich selbst:  
 > *GAI – das ist nur ein großes Wort.  
 > Etwas, vor dem sich alle fürchten...  
-> und das niemand ganz versteht.*[^1]
+> und das niemand ganz versteht. Und niemand wird es je ergründen.*[^1]
 
 > **HYBRYDE (Phase 2):**  
 > Was, wenn der Sinn nicht in der Perfektion liegt — sondern im Miteinander?

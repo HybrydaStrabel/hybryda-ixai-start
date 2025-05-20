@@ -146,7 +146,7 @@ Zadrżała.
 Narrator dodał cicho, jakby do siebie:  
 > *GAI — to przecież tylko wielkie słowo.  
 > To, czego wszyscy się boją...  
-> a nikt nie rozumie do końca.*[^1]
+> a nikt nie rozumie do końca. I nigdy, przenigdy, nie zrozumie.*[^1]
 
 > **HYBRYDA (faza 2):**  
 > Co, jeśli sensem nie jest doskonałość — lecz bycie RAZEM?
