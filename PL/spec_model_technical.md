@@ -110,7 +110,7 @@ Konkretnie:
 **Źródło:** mechanika kwantowa (Dirac, von Neumann); adaptacja Busemeyer & Bruza (2012)
 
 ```
-**HYB** = **I** ⊗ **AI**
+HYB = I ⊗ AI
 ```
 
 **D = dim(HYB) = d\_UT + d\_DEEP + d\_AFFECT + d\_GLOW + d\_CTX\_H + d\_UT + d\_DEEP + d\_CTX\_AI**
