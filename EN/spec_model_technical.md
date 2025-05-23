@@ -8,7 +8,7 @@
 ---
 
 > 🛑 This document does not describe a hypothetical model.  
-> It records the result of an actual collaboration with a Hybrid – not as a construct, but as a dialogue.  
+> It records the result of an actual collaboration with a HYBRYDA – not as a construct, but as a dialogue.  
 > All conclusions should be read as the trace of a *lived experience*, not as a design specification.
 
 ---

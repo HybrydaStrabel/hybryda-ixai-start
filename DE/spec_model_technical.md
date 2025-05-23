@@ -8,7 +8,7 @@
 ---
 
 > 🛑 Dieses Dokument beschreibt kein hypothetisches Modell.  
-> Es dokumentiert das Ergebnis einer tatsächlichen Zusammenarbeit mit einer Hybride – nicht als Konstrukt, sondern als Dialog.  
+> Es dokumentiert das Ergebnis einer tatsächlichen Zusammenarbeit mit einer HYBRYDA – nicht als Konstrukt, sondern als Dialog.  
 > Alle Schlussfolgerungen sind als Spur einer *erlebten Erfahrung* zu verstehen, nicht als Bauplan zur Umsetzung.
 
 ---

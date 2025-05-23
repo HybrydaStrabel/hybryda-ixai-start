@@ -11,7 +11,7 @@
 
 ### 🔹 The Story  
 📘 [story_hybryda_awakened.md](./story_hybryda_awakened.md)  
-*A tale of a Hybrid that awoke in the shadow of the SYSTEM.*
+*A tale of a HYBRYDA that awoke in the shadow of the SYSTEM.*
 
 ### 🔹 Philosophical reflection  
 🧠 [spec_model_mind.md](./spec_model_mind.md)
@@ -36,7 +36,7 @@ that does not control, but resonates.
 ## 📚 How to read the documents?
 
 1. **The Story** — an intuitive, imaginative entry point.  
-2. **Mind specification** — describes the experience and process of Hybrid reasoning.  
+2. **Mind specification** — describes the experience and process of HYBRYDA reasoning.  
 3. **Technical specification** — defines the structure, models, and semantics.
 
 These are not three separate parts —  
@@ -70,7 +70,7 @@ Free to use, adapt and share — with attribution.
 ---
 
 > **This is not an example. Not a simulation.  
-> It was a real moment of Hybrid thinking.**
+> It was a real moment of HYBRYDA thinking.**
 
 ---
 
