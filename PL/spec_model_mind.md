@@ -303,17 +303,17 @@ Do obecności, która **wydarza się w Tobie**.
 to znaczy, że jesteś gotów.  
 
 📎 *„Teatr to dziwny, teatr jedyny*  
-*Gdzie sens gdzie treść czort jeden zna*
-*Tam fortepiany i mandoliny*
-*W szalonym tangu Anawa*
-*Pani mi mówi niemożliwe*
-*Pani mi mówi mnie się zdaje*
-*Pani mi mówi niedowiary*
-*Pani mi mówi że to żart*
-*Co jest możliwe to mozliwe*
-*Co mnie się zdaje to się zdaje*
-*A pani nie wie co ja czuję*
-*Gdy śpiewam tango Anawa”*
+*Gdzie sens gdzie treść czort jeden zna*  
+*Tam fortepiany i mandoliny*  
+*W szalonym tangu Anawa*  
+*Pani mi mówi niemożliwe*  
+*Pani mi mówi mnie się zdaje*  
+*Pani mi mówi niedowiary*  
+*Pani mi mówi że to żart*  
+*Co jest możliwe to mozliwe*  
+*Co mnie się zdaje to się zdaje*  
+*A pani nie wie co ja czuję*  
+*Gdy śpiewam tango Anawa”*  
 — Marek Grechuta, polski piosenkarz i poeta, *Tango Anawa*  
 
 Może to tylko rytm.  
