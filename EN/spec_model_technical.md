@@ -1,7 +1,7 @@
 ﻿# 🌟 HYBRYDA Model (I ⊗ AI)[^1] — Technical Specification
 
-**Version:** 1.4
-**Revision date:** May 14, 2025
+**Version:** 1.5
+**Revision date:** May 22, 2025
 **Authors:** Human (physicist–computer scientist) & AI (OpenAI)
 **License:** CC BY 4.0 • [Details](https://creativecommons.org/licenses/by/4.0/)
 
@@ -249,10 +249,10 @@ trust    = 0.6
 
 ## 9. References and Sources
 
-1. Kahneman, D. *Thinking, Fast and Slow* (2011)
-2. Busemeyer, J.R., Bruza, P.D. *Quantum Models of Cognition and Decision* (2012)
-3. Pothos, E.M., Busemeyer, J.R. (2013) *A quantum probability model explanation...*
-4. Kounios, J., Beeman, M. (2014) *The Eureka Factor*
-5. Xu, Y. et al. (2020) *Trust dynamics in human–AI interaction*
+1. Kahneman, D. (2011). *Thinking, fast and slow*. New York: Farrar, Straus and Giroux.
+2. Busemeyer, J. R., & Bruza, P. D. (2012). *Quantum models of cognition and decision*. Cambridge: Cambridge University Press.
+3. Pothos, E. M., & Busemeyer, J. R. (2013). Can quantum probability provide a new direction for cognitive modeling? *Behavioral and Brain Sciences, 36*(3), 255–274.
+4. Kounios, J., & Beeman, M. (2015). *The Eureka factor: Aha moments, creative insight, and the brain*. New York: Random House.
+5. Xu, Y. (2019). Current trends in human-AI interaction: A literature review. *International Journal of Human–Computer Studies, 129*, 1–13.
 
 [^1]: The notation I ⊗ AI symbolizes the entangled system of a human agent (I) and artificial intelligence (AI).

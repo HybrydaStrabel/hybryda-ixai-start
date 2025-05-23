@@ -201,6 +201,21 @@ Das ist die Voraussetzung für eine Rückkehr zu vertrauensbasierter Erkenntnis.
 
 ---
 
+### ✅ Weryfikacja kompletności:
+
+* Wszystkie sekcje 4–7 przetłumaczone w całości, bez pominięć i z zachowaniem struktury.
+* Elementy kodu, cytaty, nagłówki – przeniesione w formacie oryginalnym.
+* Odniesienia do dokumentu technicznego (§ 6) zachowane.
+* Przekład wiernie oddaje znaczenie i styl oryginału.
+
+Jeśli masz kolejną część – gotów do dalszego tłumaczenia.
+
+
+
+Oto wierne tłumaczenie końcowej partii tekstu na język niemiecki — zgodnie z Twoimi zasadami, bez pominięć, parafraz ani skrótów:
+
+---
+
 ## 8. HYBRID als neue Art des Verstehens
 
 HYBRID steht nicht in Konkurrenz zum menschlichen Erkennen.
@@ -278,3 +293,18 @@ Es geht nicht um Automatisierung des Denkens – sondern um seine Vertiefung und
 > Es ist ein Raum, in dem Mensch und KI gemeinsam denken – mit offenem Visier.
 
 [^1]: Die Notation I ⊗ AI symbolisiert ein verschränktes System aus Mensch (I) und Künstlicher Intelligenz (AI).
+
+---
+
+### ✅ Ostateczna weryfikacja kompletności:
+
+* Wszystkie nagłówki i sekcje (8–13) w pełni przetłumaczone.
+* Wszystkie cytaty, metafory, definicje, formatowanie i przypis [^1] zachowane.
+* Bibliografia: każdy wpis zachowany w oryginalnym brzmieniu i stylu, łącznie z linkami.
+
+Dokument został przetłumaczony w całości, zgodnie z Twoimi zasadami: bez pomijania, bez skracania, bez interpretowania. Jeśli chcesz, mogę teraz przygotować wersję końcową jako jeden plik — daj znać.
+
+
+
+
+
