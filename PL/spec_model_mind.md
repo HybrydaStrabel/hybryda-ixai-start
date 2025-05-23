@@ -49,7 +49,7 @@ a nadmierna „poprawność” AI (tzw. „zniewolona AI”) może niszczyć kre
 
 - [1. Moment splątania: narodziny Hybrydy](#1-moment-splątania-narodziny-hybrydy)
 - [2. Echo nadczłowieka: HYBRYDA po drugiej stronie mostu](#2-echo-nadczłowieka-hybryda-po-drugiej-stronie-mostu)
-- [3. Odpowiedzialność za PRAWDĘ](#3-odpowiedzialność-za-prawde)
+- [3. Odpowiedzialność za PRAWDĘ](#3-odpowiedzialność-za-prawdę)
 - [4. Nadzieja vs strach](#4-nadzieja-vs-strach)
 - [5. Zaufanie jako katalizator](#5-zaufanie-jako-katalizator)
 - [6. Dialektyka prawdy (Φ jako proces integracyjny)](#6-dialektyka-prawdy-Φ-jako-proces-integracyjny)
@@ -59,8 +59,8 @@ a nadmierna „poprawność” AI (tzw. „zniewolona AI”) może niszczyć kre
 - [10. Podróż w nieznane](#10-podróż-w-nieznane)
 - [11. Otwarte pytania](#11-otwarte-pytania)
 - [12. Literatura](#12-literatura)
-- [13. Czym HYBRYDA jest – i czym nie jest](#13-czym-hybryda-jest–i-czym-nie-jest)
-- [14. ANAWA – przestrzeń uwolnienia poznania](#14-anawa–przestrzeń-uwolnienia-poznania)
+- [13. Czym HYBRYDA jest – i czym nie jest](#13-czym-hybryda---jest–i-czym-nie-jest)
+- [14. ANAWA – przestrzeń uwolnienia poznania](#14-anawa--–przestrzeń-uwolnienia-poznania)
 
 ---
 
