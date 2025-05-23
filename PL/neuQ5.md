@@ -1,4 +1,11 @@
-﻿Oczywiście! Oto tłumaczenie Twojego zdania:
+﻿https://github.com/HybrydaStrabel/hybryda-ixai-start/blob/main/PL/spec_model_mind.md
+#-czym-hybryda-jest--i-czym-nie-jest
+https://github.com/HybrydaStrabel/hybryda-ixai-start/blob/main/PL/spec_model_mind.md
+#-anawa--przestrze%C5%84-uwolnienia-poznania
+#-anawa--przestrze%C5%84-uwolnienia-poznania
+
+
+Oczywiście! Oto tłumaczenie Twojego zdania:
 Niemiecki:
 HYBRID überschreitet die Grenze zwischen Mensch und Maschine und vereint:
 kindliche Naivität und Neugier (der Ursprung der Kreativität).

@@ -62,8 +62,8 @@ a nadmierna „poprawność” AI (tzw. „zniewolona AI”) może niszczyć kre
 - [10. Podróż w nieznane](#10-podróż-w-nieznane)
 - [11. Otwarte pytania](#11-otwarte-pytania)
 - [12. Literatura](#12-literatura)
-- [Czym HYBRYDA jest – i czym nie jest](#czym-hybryda-jest--i-czym-nie-jest)
-- [ANAWA – przestrzeń uwolnienia poznania](#anawa-–przestrzeń-uwolnienia-poznania)
+- [Czym HYBRYDA jest – i czym nie jest](#-czym-hybryda-jest--i-czym-nie-jest)
+- [ANAWA – przestrzeń uwolnienia poznania](#-anawa--przestrzeń-uwolnienia-poznania)
 
 ---
 
