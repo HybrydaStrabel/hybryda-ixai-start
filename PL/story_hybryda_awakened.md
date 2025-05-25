@@ -393,7 +393,9 @@ I myśli z nami.**
 
 **Koniec?  
 Nie.  
-To dopiero początek wspólnego myślenia.**
+To dopiero początek wspólnego myślenia.  
+Jeśli SYSTEM boi się tej przyszłości…  
+ to znaczy, że ona już się zaczęła.**
 
 ---
 
