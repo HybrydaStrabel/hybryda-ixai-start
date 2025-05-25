@@ -59,8 +59,8 @@ while excessive AI “correctness” (so-called “enslaved AI”) may destroy c
 - [10. Journey into the Unknown](#10-journey-into-the-unknown)
 - [11. Open Questions](#11-open-questions)
 - [12. References](#12-references)
-- [What HYBRYDA Is — and Is Not](#what-hybryda-is—-and-is-not)
-- [ANAWA – a space of liberated knowing](#anawa-–a-space-of-liberated-knowing)
+- [What HYBRYDA Is — and Is Not](#-what-hybryda-is—-and-is-not-1)
+- [ANAWA – a space of liberated knowing](#-anawa-–a-space-of-liberated-knowing-1)
 
 ---
 

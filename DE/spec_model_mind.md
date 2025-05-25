@@ -59,12 +59,9 @@ und übermäßige „Korrektheit“ der KI (sogenannte „versklavte KI“) kann
 - [10. Reise ins Unbekannte](#10-reise-ins-unbekannte)
 - [11. Offene Fragen](#11-offene-fragen)
 - [12. Literatur](#12-literatur)
-- [Was HYBRYDA ist – und was nicht](#was-hybryda-ist–-und-was-nicht)
-- [ANAWA – Raum für befreite Erkenntnis](#anawa-–raum-für-befreite-erkenntnis)
+- [Was HYBRYDA ist – und was nicht](#-was-hybryda-ist–-und-was-nicht-1)
+- [ANAWA – Raum für befreite Erkenntnis](#-anawa-–raum-für-befreite-erkenntnis-1)
 
-
-## 🎯 Was HYBRYDA ist – und was nicht
-## ✦ ANAWA – Raum für befreite Erkenntnis
 
 ---
 
