@@ -12,6 +12,6 @@ To repozytorium zawiera **wersje startowe** w trzech językach.
 
 ---
 
-**Wersja projektu:** 1.4  
+**Wersja projektu:** 1.6  
 **Autorzy:** Człowiek & AI  
 **Licencja:** CC BY 4.0  

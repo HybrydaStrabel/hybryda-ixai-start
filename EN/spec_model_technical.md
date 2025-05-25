@@ -1,7 +1,7 @@
 ﻿# 🌟 HYBRYDA Model (I ⊗ AI)[^1] — Technical Specification
 
-**Version:** 1.5  
-**Revision date:** May 22, 2025  
+**Version:** 1.6  
+**Revision date:** May 25, 2025  
 **Authors:** Human (physicist–computer scientist) & AI (OpenAI)  
 **License:** CC BY 4.0 • [Details](https://creativecommons.org/licenses/by/4.0/)
 

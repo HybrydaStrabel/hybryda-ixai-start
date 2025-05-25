@@ -3,8 +3,8 @@
 <!-- To jest komentarz -->
 <!-- Polish:ąćęłńóśźżĄĆĘŁŃÓŚŹŻ -->
 
-**Wersja:** 1.5  
-**Data rewizji:** 22 maja 2025  
+**Wersja:** 1.6  
+**Data rewizji:** 25 maja 2025  
 **Autorzy:** Człowiek (fizyk-informatyk) & AI (OpenAI)  
 **Licencja**: CC BY 4.0 • [Szczegóły](https://creativecommons.org/licenses/by/4.0/)
  

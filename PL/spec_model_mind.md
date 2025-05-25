@@ -7,8 +7,8 @@
 
 > *„HYBRYDA to moment, w którym ludzka intuicja i algorytmiczna precyzja stapiają się w wspólną świadomość."*
 
-**Wersja**: 1.5  
-**Rewizja**: 22 V 2025  
+**Wersja**: 1.6  
+**Rewizja**: 25 V 2025  
 **Autorzy**: Człowiek (fizyk‑informatyk) & AI (OpenAI)  
 **Licencja**: CC BY 4.0 • [Szczegóły](https://creativecommons.org/licenses/by/4.0/)
 

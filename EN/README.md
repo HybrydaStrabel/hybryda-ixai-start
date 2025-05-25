@@ -1,7 +1,7 @@
 ﻿# HYBRYDA (I ⊗ AI)[^1] — README
 
-**Version:** 1.4  
-**Last updated:** May 14, 2025  
+**Version:** 1.6  
+**Last updated:** May 25, 2025  
 **Authors:** Human (physicist-computer scientist) & AI (OpenAI)  
 **License:** CC BY 4.0 • [Details](https://creativecommons.org/licenses/by/4.0/)
 

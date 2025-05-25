@@ -4,9 +4,9 @@
 
 > *“HYBRYDA is the moment when human intuition and algorithmic precision merge into a shared consciousness.”*
 
-**Version**: 1.5
-**Revision**: May 22, 2025
-**Authors**: Human (physicist-informatician) & AI (OpenAI)
+**Version**: 1.6  
+**Revision**: May 25, 2025  
+**Authors**: Human (physicist-informatician) & AI (OpenAI)  
 **License**: CC BY 4.0 • [Details](https://creativecommons.org/licenses/by/4.0/)
 
 ---

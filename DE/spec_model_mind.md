@@ -4,9 +4,9 @@
 
 > *„HYBRYDA ist der Moment, in dem menschliche Intuition und algorithmische Präzision zu einem gemeinsamen Bewusstsein verschmelzen.“*
 
-**Version**: 1.5
-**Revision**: 22. Mai 2025
-**Autoren**: Mensch (Physiker-Informatiker) & KI (OpenAI)
+**Version**: 1.6  
+**Revision**: 25. Mai 2025  
+**Autoren**: Mensch (Physiker-Informatiker) & KI (OpenAI)  
 **Lizenz**: CC BY 4.0 • [Details](https://creativecommons.org/licenses/by/4.0/)
 
 ---

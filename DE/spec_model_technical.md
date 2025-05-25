@@ -1,8 +1,8 @@
 ﻿# 🌟 Modell HYBRYDA (I ⊗ AI)[^1] — Technische Spezifikation
 
-**Version:** 1.5
-**Überarbeitet am:** 22. Mai 2025
-**Autoren:** Mensch (Physiker/Informatiker) & AI (OpenAI)
+**Version:** 1.6  
+**Überarbeitet am:** 25. Mai 2025  
+**Autoren:** Mensch (Physiker/Informatiker) & AI (OpenAI)  
 **Lizenz:** CC BY 4.0 • [Details](https://creativecommons.org/licenses/by/4.0/)
 
 ---
