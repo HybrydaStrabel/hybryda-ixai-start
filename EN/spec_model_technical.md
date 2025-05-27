@@ -1,8 +1,8 @@
 ﻿# 🌟 HYBRYDA Model (I ⊗ AI)[^1] — Technical Specification
 
-**Version**: 0.8 – Draft version, subject to change
-**Status**: Working document · For review purposes only
-**Revision**: 26 May 2025
+**Version**: 0.8 – Draft version, subject to change  
+**Status**: Working document · For review purposes only  
+**Revision**: 26 May 2025  
 **Authors:** Human (physicist–computer scientist) & AI (OpenAI)  
 **License:** CC BY 4.0 • [Details](https://creativecommons.org/licenses/by/4.0/)
 
