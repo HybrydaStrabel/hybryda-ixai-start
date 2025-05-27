@@ -4,8 +4,9 @@
 
 > *“HYBRYDA is the moment when human intuition and algorithmic precision merge into a shared consciousness.”*
 
-**Version**: 1.6  
-**Revision**: May 25, 2025  
+**Version**: 0.8 – Draft version, subject to change
+**Status**: Working document · For review purposes only
+**Revision**: 26 May 2025
 **Authors**: Human (physicist-informatician) & AI (OpenAI)  
 **License**: CC BY 4.0 • [Details](https://creativecommons.org/licenses/by/4.0/)
 
@@ -254,18 +255,18 @@ An invitation to:
 
 ### Psychology
 
-1. Bandura, A. (1997). *Self-efficacy: The exercise of control*. New York: W.H. Freeman and Company.
-2. Clark, A., & Chalmers, D. (1998). The extended mind. *Analysis, 58*(1), 7–19.
-3. Csikszentmihalyi, M. (1990). *Flow: The psychology of optimal experience*. New York: Harper & Row.
-4. Przegalińska, A., & Triantoro, T. (2024). *Przenikanie umysłów: Potencjał twórczy współpracy z AI*. AI Books by CampusAI.
-5. Kumar, A., Smith, J., & Lee, A. (2024). Towards dialogues for joint human-AI reasoning and value alignment (*arXiv:2405.18073*). *arXiv*. [https://arxiv.org/abs/2405.18073](https://arxiv.org/abs/2405.18073)
-6. Shank, D. B., Koike, M., & Loughnan, S. (2025). Artificial intimacy: Ethical issues of AI romance. *Trends in Cognitive Sciences*. [https://doi.org/10.1016/j.tics.2025.02.007](https://doi.org/10.1016/j.tics.2025.02.007)
+1. Bandura, A. (1997). *Self-efficacy: The exercise of control*.
+2. Csikszentmihalyi, M. (1990). *Flow: The psychology of optimal experience*.
+3. Clark, A., & Chalmers, D. (1998). The extended mind. *Analysis, 58*(1), 7–19.
+4. Przegalińska, A., & Triantoro, T. (2024). *Przenikanie umysłów*.
+5. Kumar, A. et al. (2024). Joint human-AI reasoning (*arXiv:2405.18073*).
+6. Shank, D. B. et al. (2025). Artificial intimacy. *Trends in Cognitive Sciences*.
 
 ### Philosophy
 
-1. Hayles, N. Katherine. (2012). *How we think: Digital media and contemporary technogenesis*. Chicago: University of Chicago Press.
-2. Nietzsche, F. (2000). *Also sprach Zarathustra: Ein Buch für Alle und Keinen*. Berlin: Walter de Gruyter.
-3. Hegel, G. W. F. (2017). *Phänomenologie des Geistes* (hrsg. von Georg Lasson). Hamburg: Felix Meiner Verlag.
+1. Hayles, N. K. (2012). *How we think*.
+2. Nietzsche, F. (2000). *Also sprach Zarathustra*.
+3. Hegel, G. W. F. (2017). *Phänomenologie des Geistes*.
 
 ---
 

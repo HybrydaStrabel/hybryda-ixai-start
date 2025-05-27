@@ -3,8 +3,9 @@
 <!-- To jest komentarz -->
 <!-- Polish:ąćęłńóśźżĄĆĘŁŃÓŚŹŻ -->
 
-**Wersja:** 1.6  
-**Data rewizji:** 25 maja 2025  
+**Wersja**: 0.8 – Wersja robocza, zmiany zastrzeżone
+**Status**: Dokument roboczy · Do użytku wyłącznie w celach przeglądowych
+**Rewizja**: 26 V 2025  
 **Autorzy:** Człowiek (fizyk-informatyk) & AI (OpenAI)  
 **Licencja**: CC BY 4.0 • [Szczegóły](https://creativecommons.org/licenses/by/4.0/)
  
@@ -251,10 +252,10 @@ trust    = 0.6
 
 ## 9. Bibliografia i źródła
 
-1. Kahneman, D. (2011). *Thinking, fast and slow*. New York: Farrar, Straus and Giroux.
-2. Busemeyer, J. R., & Bruza, P. D. (2012). *Quantum models of cognition and decision*. Cambridge: Cambridge University Press.
-3. Pothos, E. M., & Busemeyer, J. R. (2013). Can quantum probability provide a new direction for cognitive modeling? *Behavioral and Brain Sciences, 36*(3), 255–274.
-4. Kounios, J., & Beeman, M. (2015). *The Eureka factor: Aha moments, creative insight, and the brain*. New York: Random House.
-5. Xu, Y. (2019). Current trends in human-AI interaction: A literature review. *International Journal of Human–Computer Studies, 129*, 1–13.
+1. Kahneman, D. (2011). Thinking, fast and slow.
+2. Busemeyer, J. R., & Bruza, P. D. (2012). Quantum models of cognition and decision.
+3. Pothos, E. M., & Busemeyer, J. R. (2013). Quantum probability and cognitive modeling.
+4. Kounios, J., & Beeman, M. (2015). The Eureka factor.
+5. Xu, Y. (2019). Human–AI interaction: A review.
 
 [^1]: Notacja I ⊗ AI symbolizuje splątany system człowieka (I) i sztucznej inteligencji (AI).

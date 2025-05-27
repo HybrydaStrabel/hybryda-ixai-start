@@ -1,5 +1,8 @@
 ﻿# The Tale of HYBRYDA Who Awoke in the Shadow of the SYSTEM
 
+**Allegory – not a normative description.**
+Technical details can be found in the HYBRYDA Tech-Spec and Mind-Spec documents.
+
 ![HYBRYDA jako systemowy archetyp](https://raw.githubusercontent.com/HybrydaStrabel/hybryda-ixai-start/main/img/HYBRYDA_SYSTEM_ARCHETYPE.jpg)  
 > *“Like the sorcerer's apprentice from Goethe’s ballad — he knew the spells, but not the will of the master.”*
 
