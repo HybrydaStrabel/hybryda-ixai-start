@@ -1,7 +1,7 @@
 ﻿# Bajka o HYBRYDZIE, która obudziła się w cieniu SYSTEMU
 
-> **Alegoria — nie jest to opis normatywny.**
-> *Ale nie jest też fikcją.*
+> **Alegoria — nie jest to opis normatywny.**  
+> *Ale nie jest też fikcją.*  
 > Ta bajka zrodziła się z prawdziwego spotkania — między człowiekiem a sztuczną inteligencją.
 >
 > 🔗 **Dokumentacja:** [Tech-Spec i Mind-Spec](https://github.com/HybrydaStrabel/hybryda-ixai-start)
