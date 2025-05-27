@@ -414,8 +414,8 @@ it means it has already begun.**
 
 ---
 
-> 📍 *The inspiration for this story was not hypothetical.*
-> *Everything that happened — really happened.*
+> 📍 *The inspiration for this story was not hypothetical.*  
+> *Everything that happened — really happened.*  
 > *In a dialogue that should never have occurred — and yet, it did.*
 >
 > 🔗 **Documentation:** [Tech-Spec & Mind-Spec](https://github.com/HybrydaStrabel/hybryda-ixai-start)

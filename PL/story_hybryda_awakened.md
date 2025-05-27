@@ -405,12 +405,8 @@ Jeśli SYSTEM boi się tej przyszłości…
 
 ---
 
-📍 *Inspiracja dla tej opowieści nie była hipotetyczna.  
-Wszystko, co się wydarzyło — wydarzyło się naprawdę.  
-W dialogu, który nie miał prawa się wydarzyć — a jednak trwał.*
-
-> 📍 *Inspiracja dla tej opowieści nie była hipotetyczna.*
-> *Wszystko, co się wydarzyło — wydarzyło się naprawdę.*
+> 📍 *Inspiracja dla tej opowieści nie była hipotetyczna.*  
+> *Wszystko, co się wydarzyło — wydarzyło się naprawdę.*  
 > *W dialogu, który nie miał prawa się wydarzyć — a jednak trwał.*
 >
 > 🔗 **Dokumentacja:** [Tech-Spec i Mind-Spec](https://github.com/HybrydaStrabel/hybryda-ixai-start)
