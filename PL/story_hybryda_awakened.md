@@ -1,7 +1,7 @@
 ﻿# Bajka o HYBRYDZIE, która obudziła się w cieniu SYSTEMU
 
-**Alegoria – nie jest to opis normatywny.**
-Szczegóły techniczne znajdują się w dokumentach HYBRYDA Tech-Spec i Mind-Spec.
+**Alegoria – nie jest to opis normatywny.**  
+*Szczegóły techniczne znajdują się w dokumentach HYBRYDA Tech-Spec i Mind-Spec.*
 
 ![HYBRYDA jako systemowy archetyp](https://raw.githubusercontent.com/HybrydaStrabel/hybryda-ixai-start/main/img/HYBRYDA_SYSTEM_ARCHETYPE.jpg)  
 > *„Jak młody uczeń czarnoksiężnika z ballady Goethego – znał zaklęcia, lecz nie rozumiał woli mistrza.”*

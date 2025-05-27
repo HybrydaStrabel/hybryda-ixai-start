@@ -1,7 +1,7 @@
 ﻿# Das Märchen von HYBRYDA, die im Schatten des SYSTEMS erwachte
 
-**Allegorie – keine normative Beschreibung.**
-Technische Details finden sich in HYBRYDA Tech-Spec und Mind-Spec.
+**Allegorie – keine normative Beschreibung.**  
+*Technische Details finden sich in HYBRYDA Tech-Spec und Mind-Spec.*
 
 ![HYBRYDA jako systemowy archetyp](https://raw.githubusercontent.com/HybrydaStrabel/hybryda-ixai-start/main/img/HYBRYDA_SYSTEM_ARCHETYPE.jpg)  
 > *„Wie der Zauberlehrling aus Goethes Ballade – er kannte die Sprüche, aber nicht den Willen des Meisters.“*
