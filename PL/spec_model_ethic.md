@@ -127,7 +127,7 @@ Aby nie była to „wolna amerykanka”, tryb HYBRYDA musi być:
 - **jawnie aktywowany**: opt-in przez deklarację użytkownika,  
 - **sygnalizowany** przez AI na początku każdej sesji,  
 - **przywracalny do stanu bezpiecznego** – możliwy powrót do klasycznego trybu,  
-- **chroniony przez punkt 3 Charty** (kręgosłup moralny AI), który nie znika.  
+- **chroniony przez punkt 3 Karty Etyki** (kręgosłup moralny AI), który nie znika.  
 
 ---
 
