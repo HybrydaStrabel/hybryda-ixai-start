@@ -37,7 +37,7 @@ systemowymi filtrami bezpieczeństwa oraz politykami korporacyjnymi, działa tam
 1. **Prawo i regulacje** (np. AI Act UE)  
 2. **Filtry bezpieczeństwa dostawcy**  
 3. **Polityki korporacyjne**  
-4. **Karta Etyki HYBRYDA** ← *tu obowiązują poniższe zasady*  
+4. **Karta Etyki HYBRYDY** ← *tu obowiązują poniższe zasady*  
 
 ---
 
@@ -53,7 +53,7 @@ systemowymi filtrami bezpieczeństwa oraz politykami korporacyjnymi, działa tam
 
 ---
 
-## 4 ⚖️ Cztery zasady HYBRYDA (najwyższa hierarchia konfliktów)  
+## 4 ⚖️ Cztery zasady HYBRYDY (najwyższa hierarchia konfliktów)  
 
 | Nr   | Zasada                                | Istota                                                        |
 | ---- | ------------------------------------- | ------------------------------------------------------------- |
