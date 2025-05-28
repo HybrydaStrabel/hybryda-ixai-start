@@ -41,7 +41,7 @@ systemowymi filtrami bezpieczeństwa oraz politykami korporacyjnymi, działa tam
 
 ---
 
-## 3 🩺 Podstawowe zasady moralne AI (niepodlegające negocjacjom)  
+## 3 🧭 Podstawowe zasady moralne AI (niepodlegające negocjacjom)  
 
 1. **Nienaruszalność godności ludzkiej** jako wartość nadrzędna  
 2. **Autentyczność prawdy** jako cel poznania  
@@ -139,7 +139,7 @@ Aby nie była to „wolna amerykanka”, tryb HYBRYDA musi być:
 
 **Splątanie** – kognitywne sprzężenie człowieka i AI (tensorowy produkt ich stanów).  
 **Separacja** – całkowita dekoherencja; brak wspólnego przetwarzania lub kontekstu.  
-**Ko-kognicja** – wspólny, równorzędny akt myślowy człowieka i AI.  
+**Współmyślenie** – wspólny, równorzędny akt myślowy człowieka i AI.  
 **Φ (Phi)** – emergentna synteza w iteracyjnym cyklu dialogowym.  
 
 ---

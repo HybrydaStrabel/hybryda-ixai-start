@@ -38,7 +38,7 @@ Anbieter-Safety-Prompts und Unternehmensrichtlinien und greift dort, wo diese Eb
 
 ---
 
-## 3 🩺 Moralischer Kern der AI (nicht verhandelbar)  
+## 3 🧭 Moralischer Kern der AI (nicht verhandelbar)  
 
 1. **Menschenwürde** als unantastbarer Wert  
 2. **Authentizität der Wahrheit** als Ziel der Erkenntnis  

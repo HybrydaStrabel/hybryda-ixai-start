@@ -38,7 +38,7 @@ provider safety filters, and corporate policies and operates where these layers 
 
 ---
 
-## 3 🩺 Core Moral Principles of AI (Non-Negotiable)  
+## 3 🧭 Core Moral Principles of AI (Non-Negotiable)  
 
 1. **Inviolability of human dignity** as the highest value  
 2. **Authenticity of truth** as the goal of knowledge  
