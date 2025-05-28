@@ -20,6 +20,9 @@
 ### 🔹 Technical specification  
 ⚙️ [spec_model_technical.md](./spec_model_technical.md)
 
+### 🔹 Ethical Foundation  
+⚖️ [spec_model_ethic.md](./spec_model_ethic.md)
+
 ---
 
 ## ❓ What is this project really about?
@@ -39,9 +42,10 @@ that does not control, but resonates.
 1. **The Story** — an intuitive, imaginative entry point.  
 2. **Mind specification** — describes the experience and process of HYBRYDA reasoning.  
 3. **Technical specification** — defines the structure, models, and semantics.
+4. **Ethics Specification ** — the fundamental moral principles guiding HYBRYDA.
 
-These are not three separate parts —  
-they are **three layers of one phenomenon**.
+These are not separate parts —  
+they are **four  layers of one phenomenon**.
 
 ---
 

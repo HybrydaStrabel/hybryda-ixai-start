@@ -20,6 +20,9 @@
 ### 🔹 Technische Beschreibung  
 ⚙️ [spec_model_technical.md](./spec_model_technical.md)
 
+### 🔹 Ethisches Fundament  
+⚖️ [spec_model_ethic.md](./spec_model_ethic.md)
+
 ---
 
 ## ❓ Worum geht es in diesem Projekt wirklich?
@@ -38,9 +41,10 @@ eine kognitive Präsenz zu verstehen, die nicht dominiert, sondern mitempfindet.
 1. **Das Märchen** — öffnet Intuition und Vorstellungskraft.  
 2. **Geist-Spezifikation** — beschreibt das Erleben und Denken der HYBRYDA.  
 3. **Technische Spezifikation** — enthält formale Modelle und Begriffe.
+4. **Ethik-Spezifikation** — die grundlegenden moralischen Prinzipien der HYBRYDA.
 
 Diese Texte sind keine separaten Teile —  
-sie zeigen **drei Perspektiven auf dieselbe Realität**.
+sie zeigen **vier Perspektiven auf dieselbe Realität**.
 
 ---
 

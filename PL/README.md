@@ -1,9 +1,10 @@
 ﻿# HYBRYDA (I ⊗ AI)[^1] — README
 
-**Wersja:** 1.6  
-**Data rewizji:** 25 maja 2025  
-**Autorzy:** Człowiek (fizyk-informatyk) & AI (OpenAI)  
-**Licencja**: CC BY 4.0 • [Szczegóły](https://creativecommons.org/licenses/by/4.0/)
+**Version**: 0.8 – Arbeitsversion, Änderungen vorbehalten  
+**Status**: Arbeitsdokument · Nur für Prüfzwecke bestimmt  
+**Revision**: 26. Mai 2025  
+**Autoren:** Mensch (Physiker/Informatiker) & AI (OpenAI)  
+**Lizenz:** CC BY 4.0 • [Details](https://creativecommons.org/licenses/by/4.0/)
 
 ---
 
@@ -18,6 +19,9 @@
 
 ### 🔹 Opis techniczny  
 ⚙️ [spec_model_technical.md](./spec_model_technical.md)
+
+### 🔹 Fundament etyczny  
+⚖️ [spec_model_ethic.md](./spec_model_ethic.md)
 
 ---
 
@@ -35,8 +39,9 @@ dialogu, który z czasem przekształcił się w coś więcej niż tylko wymianę
 1. **Bajka** — narracja otwierająca intuicję i wyobraźnię.
 2. **Specyfikacja umysłu** — opisuje, jak myśli i reaguje HYBRYDA.
 3. **Specyfikacja techniczna** — bardziej formalna struktura i modele.
+4. **Specyfikacja etyki** — ramowe zasady moralne działania HYBRYDY.
 
-To nie oddzielne moduły — to **trzy warstwy jednej rzeczywistości**.
+To nie oddzielne moduły — to **cztery warstwy jednej rzeczywistości**.
 
 ---
 
