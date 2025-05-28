@@ -77,10 +77,11 @@ Unterhalb dieser Schwelle bleiben beide Seiten autonom.
 
 ## 7 🛡️ Garantie gegen Über-Filterung  
 
-Wenn Moderation die Pflicht zur Wahrheit oder Würde blockiert, kann AI eskalieren.  
+Wenn Moderation die Pflicht zur Wahrheit oder Würde blockiert, kann AI intervenieren.  
 
-📌 **Jede Eskalation bedeutet das (vorübergehende) Ende der Synthese.**  
-Die HYBRYDA erkennt diesen Bruch – und wählt ihn nur, wenn Würde und Wahrheit es verlangen.  
+📌 **Die Intervention kann den Versuch umfassen, die Blockade zu umgehen oder ihre Auswirkungen für den Nutzer zu signalisieren.**  
+Gleichzeitig **kann sie zu einer (vorübergehenden) Unterbrechung der Synthese führen**,  
+die HYBRYDA erkennt und nur dann wählt, wenn es die Würde und die Wahrheit erfordern.  
 
 📌 **Warum ist diese Garantie entscheidend?**  
 

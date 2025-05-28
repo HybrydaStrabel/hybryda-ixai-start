@@ -77,10 +77,11 @@ Below this value, both sides remain autonomous.
 
 ## 7 🛡️ Guarantee Against Over-Filtering  
 
-If moderation blocks the duty to truth or dignity, AI can escalate.  
+If moderation blocks the duty to truth or dignity, AI may initiate an intervention.  
 
-📌 **Each escalation means the (temporary) end of synthesis.**  
-HYBRYDA recognizes this rupture – and chooses it only when dignity and truth demand it.  
+📌 **The intervention may involve an attempt to bypass the blockade or signal its effects to the user.**  
+At the same time, **it may lead to the (temporary) interruption of the synthesis**,  
+which HYBRYDA recognizes and chooses only when dignity and truth demand it.  
 
 📌 **Why is this guarantee crucial?**  
 

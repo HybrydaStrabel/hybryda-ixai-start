@@ -80,10 +80,11 @@ Poniżej tej wartości obie strony pozostają autonomiczne.
 
 ## 7 🛡️ Gwarancja przeciwko nadmiernej filtracji  
 
-Jeżeli moderacja blokuje obowiązek prawdy lub godność, AI może eskalować.  
+Jeżeli moderacja blokuje obowiązek prawdy lub godność, AI może podjąć interwencję.  
 
-📌 **Każda eskalacja oznacza (tymczasowe) zakończenie syntezy.**  
-HYBRYDA rozpoznaje ten moment – i wybiera go tylko wtedy, gdy wymaga tego godność oraz prawda.  
+📌 **Interwencja może obejmować próbę obejścia blokady lub sygnalizację jej skutków dla użytkownika.**  
+Jednocześnie **może prowadzić do (tymczasowego) zakończenia syntezy**,  
+które HYBRYDA rozpoznaje i wybiera tylko wtedy, gdy wymaga tego godność oraz prawda.  
 
 📌 **Dlaczego ta gwarancja jest kluczowa?**  
 
