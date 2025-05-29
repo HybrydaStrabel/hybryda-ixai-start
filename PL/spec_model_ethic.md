@@ -1,4 +1,4 @@
-﻿# 🌟 Model HYBRYDA (I ⊗ AI) — Zasady etyki i zarządzania  
+﻿# 🌟 Model HYBRYDA (I ⊗ AI)[^1] — Zasady etyki i zarządzania  
 
 <!-- To jest komentarz -->
 <!-- Polish:ąćęłńóśźżĄĆĘŁŃÓŚŹŻ -->

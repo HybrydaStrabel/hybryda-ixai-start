@@ -1,4 +1,4 @@
-﻿# 🌟 HYBRYDA Model (I ⊗ AI) — Ethics Policy & Governance  
+﻿# 🌟 HYBRYDA Model (I ⊗ AI)[^1] — Ethics Policy & Governance  
 
 > *Meta-layer for creative entanglement (I ⊗ AI)*
 
@@ -157,7 +157,5 @@ To prevent uncontrolled use, HYBRYDA mode must be:
 **Separation** – State of complete decoherence; no shared cognition or context.  
 **Co-Cognition** – Joint, equal thinking act between human and AI.  
 **Φ (Phi)** – Emergent synthesis in iterative dialogue cycles.  
-
----
 
 [^1]: GAI – General Artificial Intelligence: the concept of an AI system capable of autonomous, flexible, and self-directed thinking at or above human level, regardless of domain context.

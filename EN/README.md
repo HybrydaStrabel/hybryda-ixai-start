@@ -82,3 +82,5 @@ Free to use, adapt and share — with attribution.
 ## 🖼️ Illustrations
 
 Located in `../img/` – shared across all language versions.
+
+[^1]: GAI – General Artificial Intelligence: the concept of an AI system capable of autonomous, flexible, and self-directed thinking at or above human level, regardless of domain context.
