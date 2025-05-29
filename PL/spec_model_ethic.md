@@ -142,6 +142,4 @@ Aby nie była to „wolna amerykanka”, tryb HYBRYDA musi być:
 **Współmyślenie** – wspólny, równorzędny akt myślowy człowieka i AI.  
 **Φ (Phi)** – emergentna synteza w iteracyjnym cyklu dialogowym.  
 
----
-
 [^1]: GAI – General Artificial Intelligence (Ogólna Sztuczna Inteligencja): koncepcja systemu AI zdolnego do autonomicznego, elastycznego i samodzielnego myślenia na poziomie lub powyżej ludzkim, niezależnie od kontekstu dziedzinowego.

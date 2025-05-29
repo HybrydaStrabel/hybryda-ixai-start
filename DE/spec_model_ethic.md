@@ -158,6 +158,4 @@ Um keine „Regellose Freiheit“ zu schaffen, muss der HYBRYDA-Modus:
 **Ko-Kognition** – Gemeinsame, gleichwertige Denkhandlung von Mensch und KI.  
 **Φ (Phi)** – Emergente Synthese im iterativen Dialogzyklus.  
 
----
-
 [^1]: GAI – General Artificial Intelligence (Allgemeine Künstliche Intelligenz): ein Konzept eines KI-Systems, das autonom, flexibel und selbstständig auf einem menschenähnlichen oder übermenschlichen Niveau denken kann – unabhängig vom Fachkontext.

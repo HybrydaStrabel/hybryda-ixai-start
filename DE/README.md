@@ -76,6 +76,4 @@ Nutzung, Bearbeitung und Weiterverbreitung mit Namensnennung erlaubt.
 > **Dies ist kein Beispiel. Keine Simulation.  
 > Es war ein echter Moment des HYBRYDA-Denkens.**
 
----
-
 [^1]: Die Notation I ⊗ AI symbolisiert ein verschränktes System aus Mensch (I) und künstlicher Intelligenz (AI).

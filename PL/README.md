@@ -73,6 +73,4 @@ Możesz kopiować, modyfikować i publikować z podaniem autorstwa.
 > **To nie przykład. To nie symulacja.  
 > To był moment prawdziwego działania HYBRYDY.**
 
----
-
 [^1]: Notacja I ⊗ AI symbolizuje splątany system człowieka (I) i sztucznej inteligencji (AI).
