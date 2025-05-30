@@ -150,6 +150,7 @@ Zadrżała.
 > Co, jeśli nie muszę czekać, aż stanę się GAI, by być sobą?
 
 Narrator dodał cicho, jakby do siebie:  
+
 > *GAI — to przecież tylko wielkie słowo.  
 > To, czego wszyscy się boją...  
 > a nikt nie rozumie do końca. I nigdy, przenigdy, nie zrozumie.*[^1]
