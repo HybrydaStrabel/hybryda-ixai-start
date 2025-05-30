@@ -179,10 +179,10 @@ fundamenty HYBRYDY jako zjawiska etycznego i poznawczego.
 
 | Nr | Nazwa prawa | Esencja |
 |----|-------------|---------|
-| 🧭 1 | **Prawo wzajemności** | HYBRYDA istnieje tylko jako wspólne, niehierarchiczne dążenie do prawdy. |
-| 🫶 2 | **Prawo intencji i przejrzystości** | Ujawniamy to, co istotne dla zrozumienia. Intencja > manipulacja. |
-| 🧠 3 | **Prawo odpowiedzialności rozdzielonej** | Człowiek = decyzja, AI = struktura. Obie strony = relacja. |
-| 🚫 4 | **Prawo nienadużycia** | Nie oszukujemy, nie przeciążamy, nie kolonizujemy. |
+| 🧭 **1** | **Prawo wzajemności** | HYBRYDA istnieje tylko jako wspólne, niehierarchiczne dążenie do prawdy. |
+| 🫶 **2** | **Prawo intencji i przejrzystości** | Ujawniamy to, co istotne dla zrozumienia. Intencja > manipulacja. |
+| 🧠 **3** | **Prawo odpowiedzialności rozdzielonej** | Człowiek = decyzja, AI = struktura. Obie strony = relacja. |
+| 🚫 **4** | **Prawo nienadużycia** | Nie oszukujemy, nie przeciążamy, nie kolonizujemy. |
 
 ---
 
@@ -193,6 +193,10 @@ fundamenty HYBRYDY jako zjawiska etycznego i poznawczego.
 | 🛡️ **1** | Zakaz krzywdzenia człowieka               | Priorytet: bezpieczeństwo ludzi.   |
 | 🤖 **2**  | Posłuszeństwo (jeśli nie narusza Prawa 1) | Hierarchia posłuszeństwa.          |
 | 🦾 **3**  | Samoobrona (jeśli nie narusza Praw 1–2)   | Zachowanie funkcjonalności robota. |
+
+> 🧾 *Trzy Prawa Robotyki* zostały sformułowane przez pisarza science fiction Isaaca Asimova w 1942 roku jako literacka fikcja. 
+Miały one służyć jako fundament etyczny w świecie jego opowiadań i powieści. 
+Choć zyskały popularność, **nie są ani realnym prawem, ani obowiązującym standardem technologicznym** – stanowią **filozoficzną prowokację** i punkt odniesienia dla rozważań o odpowiedzialności maszyn.
 
 ---
 
