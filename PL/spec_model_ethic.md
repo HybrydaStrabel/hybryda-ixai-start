@@ -122,7 +122,7 @@ W nadmiernie regulowanym systemie nawet etycznie uzasadniona, prawdziwa odpowied
 
 ### ⚠️ Warunki bezpieczeństwa  
 
-Aby nie była to „wolna amerykanka”, tryb HYBRYDA musi być:  
+Aby nie była to „wolnoamerykanka”, tryb HYBRYDA musi być:  
 
 - **jawnie aktywowany**: opt-in przez deklarację użytkownika,  
 - **sygnalizowany** przez AI na początku każdej sesji,  
