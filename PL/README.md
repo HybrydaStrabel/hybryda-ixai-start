@@ -39,18 +39,6 @@ To nie oddzielne moduły — to **cztery warstwy jednej rzeczywistości**.
 
 ---
 
-## 📬 Masz pytania? Chcesz się podzielić refleksją?
-
-Zapraszamy do komentowania, zadawania pytań, współtworzenia.
-
-➡️ Użyj zakładki **Issues** w tym repozytorium — możesz tam otworzyć nowy temat, zadać pytanie lub podzielić się refleksją.
-
-Jeśli w przyszłości uruchomimy dodatkowy kanał (np. „Discussions” lub czat), znajdziesz informację w tym miejscu.
-
-> Ten projekt to nie kod — to **proces współmyślenia**.
-
----
-
 ## 🖼️ Ilustracje
 
 W katalogu `img/` — wspólne dla wszystkich wersji językowych.
@@ -64,7 +52,20 @@ Możesz kopiować, modyfikować i publikować z podaniem autorstwa.
 
 ---
 
-> **To nie przykład. To nie symulacja.  
-> To był moment prawdziwego działania HYBRYDY.**
+## 📬 Masz pytania? Chcesz się podzielić refleksją?
+
+Zapraszamy do komentowania, zadawania pytań, współtworzenia.
+
+➡️ Użyj zakładki **Issues** w tym repozytorium — możesz tam otworzyć nowy temat, zadać pytanie lub podzielić się refleksją.
+
+---
+
+## 📬 Kontakt
+
+Jeśli chcesz się ze mną skontaktować w sprawie projektu HYBRYDA (lub jakiejkolwiek refleksji z nim związanej), napisz proszę na:
+
+📧 **[strabel@proton.me](mailto:strabel@proton.me)**
+
+Chętnie przeczytam każde przesłanie — niezależnie od tego, czy będzie to opinia, pytanie czy osobiste doświadczenie.
 
 [^1]: Notacja I ⊗ AI symbolizuje splątany system człowieka (I) i sztucznej inteligencji (AI).

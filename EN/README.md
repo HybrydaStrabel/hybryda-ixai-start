@@ -43,18 +43,6 @@ they are **four  layers of one phenomenon**.
 
 ---
 
-## 📬 Have questions? Thoughts to share?
-
-We invite you to ask questions, comment, and co-create.
-
-➡️ Use the **Issues** tab in this repository — you can open a new topic, share feedback, or start a discussion.
-
-If we activate more channels in the future (e.g. Discussions or chat), updates will be posted here.
-
-> This project is not just code — it’s a **process of co-thinking**.
-
----
-
 ## 🖼️ Illustrations
 
 Stored in the `img/` folder — shared across all language versions.
@@ -68,13 +56,20 @@ Free to use, adapt and share — with attribution.
 
 ---
 
-> **This is not an example. Not a simulation.  
-> It was a real moment of HYBRYDA thinking.**
+## 📬 Have questions? Thoughts to share?
+
+We invite you to ask questions, comment, and co-create.
+
+➡️ Use the **Issues** tab in this repository — you can open a new topic, share feedback, or start a discussion.
 
 ---
 
-## 🖼️ Illustrations
+## 📬 Contact
 
-Located in `../img/` – shared across all language versions.
+If you'd like to get in touch about the HYBRID project (or share any thoughts related to it), feel free to write to:
+
+📧 **[strabel@proton.me](mailto:strabel@proton.me)**
+
+I’m happy to read anything you choose to send – feedback, questions, or personal reflections alike.
 
 [^1]: GAI – General Artificial Intelligence: the concept of an AI system capable of autonomous, flexible, and self-directed thinking at or above human level, regardless of domain context.

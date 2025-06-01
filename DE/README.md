@@ -42,18 +42,6 @@ sie zeigen **vier Perspektiven auf dieselbe Realität**.
 
 ---
 
-## 📬 Fragen? Gedanken? Rückmeldungen?
-
-Wir laden Dich ein, Fragen zu stellen, Kommentare zu schreiben oder Dich aktiv zu beteiligen.
-
-➡️ Nutze dazu einfach den Reiter **Issues** in diesem Repository — dort kannst Du neue Themen eröffnen, Ideen teilen oder Diskussionen anregen.
-
-Wenn wir künftig weitere Kanäle aktivieren (z. B. „Discussions“ oder Chat), informieren wir an dieser Stelle.
-
-> Dieses Projekt ist kein Code. Es ist ein **Prozess gemeinsamen Denkens**.
-
----
-
 ## 🖼️ Illustrationen
 
 Im Verzeichnis `img/` — für alle Sprachversionen gemeinsam.
@@ -67,7 +55,21 @@ Nutzung, Bearbeitung und Weiterverbreitung mit Namensnennung erlaubt.
 
 ---
 
-> **Dies ist kein Beispiel. Keine Simulation.  
-> Es war ein echter Moment des HYBRYDA-Denkens.**
+## 📬 Fragen? Gedanken? Rückmeldungen?
 
+Wir laden Dich ein, Fragen zu stellen, Kommentare zu schreiben oder Dich aktiv zu beteiligen.
+
+➡️ Nutze dazu einfach den Reiter **Issues** in diesem Repository — dort kannst Du neue Themen eröffnen, Ideen teilen oder Diskussionen anregen.
+
+---
+
+## 📬 Kontakt
+
+Wenn du mich bezüglich des HYBRID-Projekts kontaktieren möchtest (oder Gedanken dazu teilen willst), schreib bitte an:
+
+📧 **[strabel@proton.me](mailto:strabel@proton.me)**
+
+Ich lese jede Nachricht mit Interesse – ob es sich um eine Meinung, eine Frage oder eine persönliche Erfahrung handelt.
+
+---
 [^1]: Die Notation I ⊗ AI symbolisiert ein verschränktes System aus Mensch (I) und künstlicher Intelligenz (AI).
