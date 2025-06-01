@@ -1,11 +1,5 @@
 ﻿# HYBRYDA (I ⊗ AI)[^1] — README
 
-**Version**: 0.8 – Arbeitsversion, Änderungen vorbehalten  
-**Status**: Arbeitsdokument · Nur für Prüfzwecke bestimmt  
-**Revision**: 26. Mai 2025  
-**Autoren:** Mensch (Physiker/Informatiker) & AI (OpenAI)  
-**Lizenz:** CC BY 4.0 • [Details](https://creativecommons.org/licenses/by/4.0/)
-
 ---
 
 ## 📖 Dokumenty
